@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CS fundamentals</string>
+    <string name="G_T_K">Good To Know</string>
+    <string name="C_s">Courses</string>
+    <string name="F_C">Featured Course</string>
 </resources>
